@@ -1,27 +1,21 @@
 # Lab-Experiment-1-Fitting-Poisson-Distribution
-#AIM :
+#Aim : 
+
+  To fit Poisson distribution for the given data
+
+#Software required : Python
+
+#Theory:
 
 
 
-
-#sOFTWARE  REQUIRED :
-
-
-
-
-
-
-#THEORY
-
-
-
-#PROCEDURE
+#Proedure :
 
 
 
 
 
-#PROGRAM
+#Program
 
 /* INSERT YOUR PROGRAM HERE 
 ROLL NUMBER :
@@ -35,7 +29,7 @@ SEMESTER: //
 
 
 
-#RESULTS AND OUTPUT : 
+#Results and Output : 
 
 
 
