@@ -1,1 +1,41 @@
 # Lab-Experiment-1-Fitting-Poisson-Distribution
+#AIM :
+
+
+
+
+#sOFTWARE  REQUIRED :
+
+
+
+
+
+
+#THEORY
+
+
+
+#PROCEDURE
+
+
+
+
+
+#PROGRAM
+
+/* INSERT YOUR PROGRAM HERE 
+ROLL NUMBER :
+NAME:
+DEPARTMENT :
+YEAR : 
+SEMESTER: //
+
+
+// PYTHON PROGRAM //
+
+
+
+#RESULTS AND OUTPUT : 
+
+
+
